@@ -1,0 +1,1315 @@
+[
+  {
+    "category": "Snack",
+    "nameEn": "Cheese Spread & Oman Chips Sandwich",
+    "nameAr": "ساندوتش جبنة و شبس عمان",
+    "prices": {
+      "rak": "15",
+      "dibba": "12",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "12"
+    }
+  },
+  {
+    "category": "Snack",
+    "nameEn": "Kraft Cheese Sandwich",
+    "nameAr": "ساندوتش جبنة كرافت",
+    "prices": {
+      "rak": "10",
+      "dibba": "10",
+      "ajman": "10",
+      "graffiti_dubai": "10",
+      "dubai": "10",
+      "fujairah": "9"
+    }
+  },
+  {
+    "category": "Snack",
+    "nameEn": "Cheese & Egg Sandwich",
+    "nameAr": "ساندوتش جبنة وبيض",
+    "prices": {
+      "rak": "15",
+      "dibba": "12",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "12"
+    }
+  },
+  {
+    "category": "Snack",
+    "nameEn": "Labneh Sandwich",
+    "nameAr": "ساندوتش لبنة",
+    "prices": {
+      "rak": "10",
+      "dibba": "10",
+      "ajman": "10",
+      "graffiti_dubai": "10",
+      "dubai": "10",
+      "fujairah": "9"
+    }
+  },
+  {
+    "category": "Snack",
+    "nameEn": "Kraft Cheese & Honey Sandwich",
+    "nameAr": "ساندوتش كرافت & عسل",
+    "prices": {
+      "rak": "15",
+      "dibba": "12",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "12"
+    }
+  },
+  {
+    "category": "Snack",
+    "nameEn": "Halloumi Cheese Sandwich",
+    "nameAr": "ساندوتش جبنة حلوم",
+    "prices": {
+      "rak": "15",
+      "dibba": "12",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "12"
+    }
+  },
+  {
+    "category": "Snack",
+    "nameEn": "Feta Cheese Sandwich",
+    "nameAr": "ساندوتش جبنة فيتا",
+    "prices": {
+      "rak": "10",
+      "dibba": "10",
+      "ajman": "10",
+      "graffiti_dubai": "10",
+      "dubai": "10",
+      "fujairah": "9"
+    }
+  },
+  {
+    "category": "Snack",
+    "nameEn": "Cheese Spread, Egg & Oman Chips Sandwich",
+    "nameAr": "ساندوتش جبنة, بيض, شيبس عمان",
+    "prices": {
+      "rak": "15",
+      "dibba": "15",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Salads",
+    "nameEn": "Caesar salad",
+    "nameAr": "سلطة سيزر",
+    "prices": {
+      "rak": "20",
+      "dibba": "20",
+      "ajman": "25",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "20"
+    }
+  },
+  {
+    "category": "Salads",
+    "nameEn": "Chef's salad",
+    "nameAr": "سلطة الشيف",
+    "prices": {
+      "rak": "25",
+      "dibba": "20",
+      "ajman": "25",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "20"
+    }
+  },
+  {
+    "category": "Salads",
+    "nameEn": "Fattoush",
+    "nameAr": "فتوش",
+    "prices": {
+      "rak": "19",
+      "dibba": "19",
+      "ajman": "23",
+      "graffiti_dubai": "23",
+      "dubai": "23",
+      "fujairah": "19"
+    }
+  },
+  {
+    "category": "Salads",
+    "nameEn": "Greek Salad",
+    "nameAr": "سلطة يونانية",
+    "prices": {
+      "rak": "20",
+      "dibba": "20",
+      "ajman": "23",
+      "graffiti_dubai": "23",
+      "dubai": "23",
+      "fujairah": "20"
+    }
+  },
+  {
+    "category": "Main Course",
+    "nameEn": "Rojina Marinated grilled chicken",
+    "nameAr": "دجاج روجينا متبل مشوي",
+    "prices": {
+      "rak": "35",
+      "dibba": "30",
+      "ajman": "38",
+      "graffiti_dubai": "38",
+      "dubai": "38",
+      "fujairah": "30"
+    }
+  },
+  {
+    "category": "Main Course",
+    "nameEn": "Cajun Shrimp",
+    "nameAr": "كاجون رويبان",
+    "prices": {
+      "rak": "40",
+      "dibba": "37",
+      "ajman": "45",
+      "graffiti_dubai": "45",
+      "dubai": "45",
+      "fujairah": "37"
+    }
+  },
+  {
+    "category": "Main Course",
+    "nameEn": "Gordon Blue",
+    "nameAr": "غوردون بلو",
+    "prices": {
+      "rak": "40",
+      "dibba": "40",
+      "ajman": "40",
+      "graffiti_dubai": "50",
+      "dubai": "50",
+      "fujairah": "40"
+    }
+  },
+  {
+    "category": "Main Course",
+    "nameEn": "Chicken Escalope",
+    "nameAr": "اسكالوب دجاج",
+    "prices": {
+      "rak": "35",
+      "dibba": "30",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "30"
+    }
+  },
+  {
+    "category": "Rojina Pasta",
+    "nameEn": "Chicken Pasta",
+    "nameAr": "باستا دجاج",
+    "prices": {
+      "rak": "35",
+      "dibba": "32",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "32"
+    }
+  },
+  {
+    "category": "Rojina Pasta",
+    "nameEn": "Vegetable Pasta",
+    "nameAr": "باستا خضار",
+    "prices": {
+      "rak": "30",
+      "dibba": "27",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "27"
+    }
+  },
+  {
+    "category": "Rojina Pasta",
+    "nameEn": "Shrimp Pasta",
+    "nameAr": "باستا رويبان",
+    "prices": {
+      "rak": "40",
+      "dibba": "40",
+      "ajman": "45",
+      "graffiti_dubai": "45",
+      "dubai": "45",
+      "fujairah": "40"
+    }
+  },
+  {
+    "category": "Rojina Noodles",
+    "nameEn": "Chicken Noodles",
+    "nameAr": "نودلز دجاج",
+    "prices": {
+      "rak": "30",
+      "dibba": "30",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "30"
+    }
+  },
+  {
+    "category": "Rojina Noodles",
+    "nameEn": "Vegetable Noodles",
+    "nameAr": "نودلز خضار",
+    "prices": {
+      "rak": "25",
+      "dibba": "25",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Rojina Noodles",
+    "nameEn": "Shrimp Noodles",
+    "nameAr": "نودلز رويبان",
+    "prices": {
+      "rak": "38",
+      "dibba": "38",
+      "ajman": "40",
+      "graffiti_dubai": "40",
+      "dubai": "40",
+      "fujairah": "38"
+    }
+  },
+  {
+    "category": "Rojina Pizza",
+    "nameEn": "Pepperoni Pizza",
+    "nameAr": "بيتزا بيبروني",
+    "prices": {
+      "rak": "N/A",
+      "dibba": "N/A",
+      "ajman": "28",
+      "graffiti_dubai": "N/A",
+      "dubai": "N/A",
+      "fujairah": "N/A"
+    }
+  },
+  {
+    "category": "Rojina Pizza",
+    "nameEn": "Chicken Pizza",
+    "nameAr": "بيتزا دجاج",
+    "prices": {
+      "rak": "N/A",
+      "dibba": "N/A",
+      "ajman": "30",
+      "graffiti_dubai": "N/A",
+      "dubai": "N/A",
+      "fujairah": "N/A"
+    }
+  },
+  {
+    "category": "Rojina Pizza",
+    "nameEn": "Vegetable Pizza",
+    "nameAr": "بيتزا خضار",
+    "prices": {
+      "rak": "N/A",
+      "dibba": "N/A",
+      "ajman": "27",
+      "graffiti_dubai": "N/A",
+      "dubai": "N/A",
+      "fujairah": "N/A"
+    }
+  },
+  {
+    "category": "Rojina Pizza",
+    "nameEn": "Margherita Pizza",
+    "nameAr": "بيتزا مارغريتا",
+    "prices": {
+      "rak": "N/A",
+      "dibba": "N/A",
+      "ajman": "24",
+      "graffiti_dubai": "N/A",
+      "dubai": "N/A",
+      "fujairah": "N/A"
+    }
+  },
+  {
+    "category": "Rojina Pizza",
+    "nameEn": "Hawaiian Pizza",
+    "nameAr": "بيتزا هاوايان",
+    "prices": {
+      "rak": "N/A",
+      "dibba": "N/A",
+      "ajman": "28",
+      "graffiti_dubai": "N/A",
+      "dubai": "N/A",
+      "fujairah": "N/A"
+    }
+  },
+  {
+    "category": "Rojina Pizza",
+    "nameEn": "Minced meat pizza",
+    "nameAr": "بيتزا لحم مفروم",
+    "prices": {
+      "rak": "N/A",
+      "dibba": "N/A",
+      "ajman": "30",
+      "graffiti_dubai": "N/A",
+      "dubai": "N/A",
+      "fujairah": "N/A"
+    }
+  },
+  {
+    "category": "Rojena Burger",
+    "nameEn": "Beef Burger",
+    "nameAr": "برغر لحم",
+    "prices": {
+      "rak": "25",
+      "dibba": "25",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Rojena Burger",
+    "nameEn": "Chicken Burger",
+    "nameAr": "برغر دجاج",
+    "prices": {
+      "rak": "23",
+      "dibba": "23",
+      "ajman": "25",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "23"
+    }
+  },
+  {
+    "category": "Rojena Burger",
+    "nameEn": "Chicken Zinger Burger",
+    "nameAr": "برغر دجاج زنجر",
+    "prices": {
+      "rak": "28",
+      "dibba": "28",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "28"
+    }
+  },
+  {
+    "category": "Rojena Burger",
+    "nameEn": "Chicken Burger with Cheddar Cheese",
+    "nameAr": "برغر دجاج بجبنة الشيدر",
+    "prices": {
+      "rak": "30",
+      "dibba": "30",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "30"
+    }
+  },
+  {
+    "category": "Rojena Burger",
+    "nameEn": "Grilled Chicken Burger",
+    "nameAr": "برغر دجاج مشوي",
+    "prices": {
+      "rak": "26",
+      "dibba": "26",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "26"
+    }
+  },
+  {
+    "category": "Rojena Burger",
+    "nameEn": "Rojina Special Burger",
+    "nameAr": "برغر روجينا سبشيل",
+    "prices": {
+      "rak": "30",
+      "dibba": "30",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "30"
+    }
+  },
+  {
+    "category": "Rojina Sandwich",
+    "nameEn": "Shrimp Sandwich",
+    "nameAr": "ساندوتش رويبان",
+    "prices": {
+      "rak": "30",
+      "dibba": "30",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "30"
+    }
+  },
+  {
+    "category": "Rojina Sandwich",
+    "nameEn": "Dynamite Shrimp Sandwich",
+    "nameAr": "ساندوتش رويبان داينمايت",
+    "prices": {
+      "rak": "30",
+      "dibba": "30",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "30"
+    }
+  },
+  {
+    "category": "Rojina Sandwich",
+    "nameEn": "Hot Dog Combo",
+    "nameAr": "هوت دوغ ساندوتش",
+    "prices": {
+      "rak": "23",
+      "dibba": "23",
+      "ajman": "25",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "23"
+    }
+  },
+  {
+    "category": "Rojina Sandwich",
+    "nameEn": "Shish Tawook Sandwich",
+    "nameAr": "ساندوتش شيش طاووق",
+    "prices": {
+      "rak": "27",
+      "dibba": "27",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "27"
+    }
+  },
+  {
+    "category": "Rojina Sandwich",
+    "nameEn": "Shawarma Sandwich",
+    "nameAr": "ساندوتش شاورما",
+    "prices": {
+      "rak": "27",
+      "dibba": "27",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "27"
+    }
+  },
+  {
+    "category": "Rojina Sandwich",
+    "nameEn": "Fajita Sandwich",
+    "nameAr": "ساندويش فاهيتا",
+    "prices": {
+      "rak": "27",
+      "dibba": "27",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "27"
+    }
+  },
+  {
+    "category": "Rojina Sandwich",
+    "nameEn": "Zinger Sandwich",
+    "nameAr": "ساندوتش زنجر",
+    "prices": {
+      "rak": "27",
+      "dibba": "27",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "27"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Red tea",
+    "nameAr": "شاي أحمر",
+    "prices": {
+      "rak": "7",
+      "dibba": "7",
+      "ajman": "10",
+      "graffiti_dubai": "10",
+      "dubai": "10",
+      "fujairah": "7"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Moroccan Tea",
+    "nameAr": "شاي مغربي",
+    "prices": {
+      "rak": "15",
+      "dibba": "15",
+      "ajman": "17",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Green tea",
+    "nameAr": "شاي أخضر",
+    "prices": {
+      "rak": "7",
+      "dibba": "7",
+      "ajman": "10",
+      "graffiti_dubai": "10",
+      "dubai": "10",
+      "fujairah": "7"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Milk tea",
+    "nameAr": "شاي حليب",
+    "prices": {
+      "rak": "10",
+      "dibba": "9",
+      "ajman": "12",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "9"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Cinnamon",
+    "nameAr": "قرفة",
+    "prices": {
+      "rak": "10",
+      "dibba": "7",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "10"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Fenugreek",
+    "nameAr": "حلبة",
+    "prices": {
+      "rak": "10",
+      "dibba": "7",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "10"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Turkish Coffee",
+    "nameAr": "قهوة تركي",
+    "prices": {
+      "rak": "12/17",
+      "dibba": "12/17",
+      "ajman": "12/17",
+      "graffiti_dubai": "15/20",
+      "dubai": "15/20",
+      "fujairah": "12/17"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "French Coffee",
+    "nameAr": "قهوة فرنساوي",
+    "prices": {
+      "rak": "15/20",
+      "dibba": "10/17",
+      "ajman": "12/27",
+      "graffiti_dubai": "15/20",
+      "dubai": "15/20",
+      "fujairah": "12/27"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Arabic Coffee",
+    "nameAr": "قهوة عربي",
+    "prices": {
+      "rak": "12/17/22",
+      "dibba": "12/17/22",
+      "ajman": "12/17/22",
+      "graffiti_dubai": "15/20/25",
+      "dubai": "15/20/25",
+      "fujairah": "12/17/22"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Ginger",
+    "nameAr": "زنجبيل",
+    "prices": {
+      "rak": "12",
+      "dibba": "10",
+      "ajman": "12",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "12"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Herbal Cocktail",
+    "nameAr": "كوكتيل أعشاب",
+    "prices": {
+      "rak": "15",
+      "dibba": "10",
+      "ajman": "13",
+      "graffiti_dubai": "17",
+      "dubai": "17",
+      "fujairah": "13"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Sahlep drink",
+    "nameAr": "مشروب السحلب",
+    "prices": {
+      "rak": "15",
+      "dibba": "10",
+      "ajman": "12",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "12"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Sahlab Plate",
+    "nameAr": "سحلب صحن",
+    "prices": {
+      "rak": "20",
+      "dibba": "15",
+      "ajman": "17",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "17"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Sahlab with fruits",
+    "nameAr": "سحلب بالفواكه",
+    "prices": {
+      "rak": "25",
+      "dibba": "20",
+      "ajman": "22",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "22"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Hot V60",
+    "nameAr": "Hot V60",
+    "prices": {
+      "rak": "25",
+      "dibba": "20",
+      "ajman": "25",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Espresso",
+    "nameAr": "ايسبريسو",
+    "prices": {
+      "rak": "12/16",
+      "dibba": "10/15",
+      "ajman": "12/16",
+      "graffiti_dubai": "15/20",
+      "dubai": "15/20",
+      "fujairah": "12/16"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Cappuccino",
+    "nameAr": "كابوتشينو",
+    "prices": {
+      "rak": "20",
+      "dibba": "10",
+      "ajman": "15",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Latte",
+    "nameAr": "لاتيه",
+    "prices": {
+      "rak": "20",
+      "dibba": "10",
+      "ajman": "15",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Hot Chocolate",
+    "nameAr": "هوت تشوكليت",
+    "prices": {
+      "rak": "15",
+      "dibba": "10",
+      "ajman": "15",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "White Mocha",
+    "nameAr": "وايت موكا",
+    "prices": {
+      "rak": "20",
+      "dibba": "10",
+      "ajman": "15",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Flat white",
+    "nameAr": "فلات وايت",
+    "prices": {
+      "rak": "20",
+      "dibba": "15",
+      "ajman": "20",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "20"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Nescafe",
+    "nameAr": "نسكافيه",
+    "prices": {
+      "rak": "15",
+      "dibba": "10",
+      "ajman": "12",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "12"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Spanish Latte",
+    "nameAr": "سبانش لاتيه",
+    "prices": {
+      "rak": "22",
+      "dibba": "15",
+      "ajman": "15",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Pistachio Latte",
+    "nameAr": "بيستاشيو لاتيه",
+    "prices": {
+      "rak": "22",
+      "dibba": "15",
+      "ajman": "15",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Americano",
+    "nameAr": "امريكانو",
+    "prices": {
+      "rak": "15",
+      "dibba": "10",
+      "ajman": "15",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Hot Drinks",
+    "nameEn": "Mocha Chocolate",
+    "nameAr": "موكا شوكليت",
+    "prices": {
+      "rak": "18",
+      "dibba": "15",
+      "ajman": "15",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "15"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Water 500 ml",
+    "nameAr": "ماء 500 مل",
+    "prices": {
+      "rak": "3",
+      "dibba": "3",
+      "ajman": "5",
+      "graffiti_dubai": "5",
+      "dubai": "5",
+      "fujairah": "3"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Soft drinks",
+    "nameAr": "مشروبات غازية",
+    "prices": {
+      "rak": "7",
+      "dibba": "7",
+      "ajman": "10",
+      "graffiti_dubai": "10",
+      "dubai": "10",
+      "fujairah": "7"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Soda water",
+    "nameAr": "مياه غازية",
+    "prices": {
+      "rak": "7",
+      "dibba": "7",
+      "ajman": "10",
+      "graffiti_dubai": "10",
+      "dubai": "10",
+      "fujairah": "7"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Mojito Soft drinks",
+    "nameAr": "موهيتو (مشروبات غازية)",
+    "prices": {
+      "rak": "20",
+      "dibba": "17",
+      "ajman": "25",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "20"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Red Bull",
+    "nameAr": "ريد بول",
+    "prices": {
+      "rak": "17",
+      "dibba": "17",
+      "ajman": "20",
+      "graffiti_dubai": "20",
+      "dubai": "20",
+      "fujairah": "17"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Red Bull syrup",
+    "nameAr": "ريد بول سيروب",
+    "prices": {
+      "rak": "25",
+      "dibba": "N/A",
+      "ajman": "25",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "N/A"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Red Bull Mojito",
+    "nameAr": "ريد بول موهيتو",
+    "prices": {
+      "rak": "25",
+      "dibba": "22",
+      "ajman": "30",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Natural juice",
+    "nameAr": "عصير طبيعي",
+    "prices": {
+      "rak": "22",
+      "dibba": "20",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "22"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Milkshake",
+    "nameAr": "ميلك شيك",
+    "prices": {
+      "rak": "25",
+      "dibba": "25",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Barbican",
+    "nameAr": "بابريكان",
+    "prices": {
+      "rak": "10",
+      "dibba": "10",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "10"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Ornamin C",
+    "nameAr": "اورنامين C",
+    "prices": {
+      "rak": "12",
+      "dibba": "10",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "12"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "V60 cold",
+    "nameAr": "V60 cold",
+    "prices": {
+      "rak": "25",
+      "dibba": "20",
+      "ajman": "25",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Spanish Latte cold",
+    "nameAr": "سبانش لاتيه بارد",
+    "prices": {
+      "rak": "24",
+      "dibba": "20",
+      "ajman": "30",
+      "graffiti_dubai": "30",
+      "dubai": "30",
+      "fujairah": "24"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Pistachio Latte cold",
+    "nameAr": "بيستاشيو لاتيه بارد",
+    "prices": {
+      "rak": "25",
+      "dibba": "22",
+      "ajman": "30",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Cocktail",
+    "nameAr": "كوكتيل",
+    "prices": {
+      "rak": "25",
+      "dibba": "25",
+      "ajman": "30",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Cocktail Avocado Nuts",
+    "nameAr": "كوكتيل افوكادو ومكسرات",
+    "prices": {
+      "rak": "28",
+      "dibba": "28",
+      "ajman": "30",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "28"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Ice Americano",
+    "nameAr": "ايس امريكانو",
+    "prices": {
+      "rak": "20",
+      "dibba": "20",
+      "ajman": "25",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "20"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Nuts",
+    "nameAr": "مكسرات",
+    "prices": {
+      "rak": "15/30/45",
+      "dibba": "15/25/45",
+      "ajman": "15/30/45",
+      "graffiti_dubai": "15/30/45",
+      "dubai": "15/30/45",
+      "fujairah": "15/25/45"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Roll Crepe",
+    "nameAr": "كريب رول",
+    "prices": {
+      "rak": "35",
+      "dibba": "25",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "35"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Fettuccine Crepe",
+    "nameAr": "كريب فوتيتشيني",
+    "prices": {
+      "rak": "35",
+      "dibba": "25",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "35"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Fruit Platter",
+    "nameAr": "صحن فواكه",
+    "prices": {
+      "rak": "20/35/40",
+      "dibba": "15/25/45",
+      "ajman": "25/35/50",
+      "graffiti_dubai": "25/35/50",
+      "dubai": "25/35/50",
+      "fujairah": "15/30"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Acai",
+    "nameAr": "اساي",
+    "prices": {
+      "rak": "33",
+      "dibba": "25",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "33"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Ice Cream",
+    "nameAr": "ايس كريم",
+    "prices": {
+      "rak": "12/17/22",
+      "dibba": "10/15/20",
+      "ajman": "15/25/35",
+      "graffiti_dubai": "15/25/35",
+      "dubai": "15/25/35",
+      "fujairah": "12/17/22"
+    }
+  },
+  {
+    "category": "Cold Drinks",
+    "nameEn": "Popcorn",
+    "nameAr": "فشار",
+    "prices": {
+      "rak": "10",
+      "dibba": "8",
+      "ajman": "15",
+      "graffiti_dubai": "15",
+      "dubai": "15",
+      "fujairah": "10"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Shisha lounge",
+    "nameAr": "شيشة صالة",
+    "prices": {
+      "rak": "30",
+      "dibba": "25",
+      "ajman": "N/A",
+      "graffiti_dubai": "N/A",
+      "dubai": "35",
+      "fujairah": "30"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Instead of lounge shisha",
+    "nameAr": "بدل شيشة صالة",
+    "prices": {
+      "rak": "25",
+      "dibba": "20",
+      "ajman": "N/A",
+      "graffiti_dubai": "N/A",
+      "dubai": "25",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Shisha Cabin",
+    "nameAr": "شيشة كابينة",
+    "prices": {
+      "rak": "35",
+      "dibba": "30",
+      "ajman": "50",
+      "graffiti_dubai": "50",
+      "dubai": "50",
+      "fujairah": "35"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Instead of cabin shisha",
+    "nameAr": "بدل شيشة كابينة",
+    "prices": {
+      "rak": "25",
+      "dibba": "25",
+      "ajman": "35",
+      "graffiti_dubai": "35",
+      "dubai": "35",
+      "fujairah": "25"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Lounge Special Shisha",
+    "nameAr": "شيشة سبيشل صالة",
+    "prices": {
+      "rak": "50",
+      "dibba": "40",
+      "ajman": "N/A",
+      "graffiti_dubai": "N/A",
+      "dubai": "50",
+      "fujairah": "50"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Instead of lounge special shisha",
+    "nameAr": "بدل شيشة سبيشل صالة",
+    "prices": {
+      "rak": "35",
+      "dibba": "30",
+      "ajman": "N/A",
+      "graffiti_dubai": "N/A",
+      "dubai": "35",
+      "fujairah": "35"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Cabin Special Shisha",
+    "nameAr": "شيشة سبيشل كابينة",
+    "prices": {
+      "rak": "50",
+      "dibba": "40",
+      "ajman": "65",
+      "graffiti_dubai": "65",
+      "dubai": "65",
+      "fujairah": "50"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Instead of cabin special shisha",
+    "nameAr": "بدل شيشة سبيشل كابينة",
+    "prices": {
+      "rak": "35",
+      "dibba": "30",
+      "ajman": "50",
+      "graffiti_dubai": "50",
+      "dubai": "50",
+      "fujairah": "35"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Saloum",
+    "nameAr": "سلوم",
+    "prices": {
+      "rak": "20",
+      "dibba": "15",
+      "ajman": "N/A",
+      "graffiti_dubai": "N/A",
+      "dubai": "15",
+      "fujairah": "N/A"
+    }
+  },
+  {
+    "category": "Shisha",
+    "nameEn": "Saloum Cabin",
+    "nameAr": "سلوم كابينة",
+    "prices": {
+      "rak": "25",
+      "dibba": "N/A",
+      "ajman": "25",
+      "graffiti_dubai": "25",
+      "dubai": "25",
+      "fujairah": "N/A"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "dubai",
+    "nameEn": "Rojina Cafe Dubai",
+    "locationEn": "International City - Y22",
+    "locationAr": "انترناشونال سيتي - Y22"
+  },
+  {
+    "id": "graffiti_dubai",
+    "nameEn": "Rojina Graffiti Dubai",
+    "locationEn": "International City - R22",
+    "locationAr": "انترناشونال سيتي - R22"
+  },
+  {
+    "id": "ajman",
+    "nameEn": "Rojina Ajman",
+    "locationEn": "Al Rashidiya 2",
+    "locationAr": "الراشدية 2"
+  },
+  {
+    "id": "rak",
+    "nameEn": "Rojina RAK",
+    "locationEn": "Al Qawasim Corniche",
+    "locationAr": "كورنيش القواسم"
+  },
+  {
+    "id": "fujairah",
+    "nameEn": "Rojina Fujairah",
+    "locationEn": "Al Basrah St",
+    "locationAr": "شارع البصرة"
+  },
+  {
+    "id": "dibba",
+    "nameEn": "Rojina Dibba",
+    "locationEn": "Al Rifa",
+    "locationAr": "الرفاعة"
+  }
+]
